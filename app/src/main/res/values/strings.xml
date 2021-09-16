@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chatbot</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login_to_continue">login to continue</string>
+    <string name="welcome_back">welcome back</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="confirm_password">confirm passwrod</string>
+    <string name="name">name</string>
+    <string name="add_image">add image</string>
+    <string name="type_a_message">Type a message</string>
+</resources>
